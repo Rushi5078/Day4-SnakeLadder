@@ -114,8 +114,10 @@ public class SnakeLadderUC5 {
 
 					int check = (int) Math.floor((Math.random() * 10) % 3);
 
-					// Function calling
-					playing(check);
+					// Function   calling
+					 
+					
+				playing(check);
 				}
 			}	
 		
